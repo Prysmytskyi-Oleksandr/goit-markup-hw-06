@@ -896,5 +896,5 @@ gap: 30px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
-    background-origin: border-box;
+    background-origin: content-box;
 }
